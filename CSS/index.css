@@ -1,0 +1,28 @@
+img {
+    /* border: 1px solid #ddd; */
+    width: 200px;
+    
+  }
+  .form-control{
+    border-radius:4px;
+    border-color: transparent;
+    border-width: 1px;
+    background-color: transparent;
+    color:skyblue;
+  }
+  .form-select{
+    border-radius:4px;
+
+  }
+ 
+  a{
+    text-decoration:none;
+    font-size:14px;
+  }
+
+  button{
+    border-radius:20px;
+  }
+  .form-label{
+    color:black;
+  }
